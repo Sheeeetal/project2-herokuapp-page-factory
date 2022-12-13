@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/hp/IdeaProjects/project2-herokuapp-page-factory"><classes><class name="com.herokuapp.testsuite.LoginPageTest"><methods><include name="userShouldLoginSuccessfullyWithValidCredentials"/><include name="verifyTheUsernameErrorMessage"/><include name="verifyThePasswordErrorMessage"/></methods></class></classes></test></suite>
